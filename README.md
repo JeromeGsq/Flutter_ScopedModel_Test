@@ -84,7 +84,9 @@ class ExampleModel extends Model {
 ```
 
 • **example_page.dart**
+
 Create your state here. 
+
 Don't forget to call `initialize()`.
 
 ```dart
