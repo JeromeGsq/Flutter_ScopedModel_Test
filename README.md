@@ -4,6 +4,11 @@ Flutter ScopedModel
 **ScopedModel package**: https://pub.dev/packages/scoped_model
 
 _______________
+> This ReadMe does not reflect the classes and screens used in this repository.
+> You will find a simplified example of how I use ScopedModel in this ReadMe.
+_______________
+
+_______________
 > In my opinion, this is the best design pattern for small applications.
 Be warned, ScopedModel rebuilds each ScopedModelDescendant widgets when you call `notifyListeners()`. This is not optimized.
 _______________
